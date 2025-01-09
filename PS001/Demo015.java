@@ -12,6 +12,7 @@ public class Demo015 {
         y = temp;
         System.out.println("first:"+x);
         System.out.println("second:"+y);
+        sc.close();
         
         
     }
