@@ -6,7 +6,7 @@ class PalindromeOf3 {
 }
 public class Demo016 {
     public static void main(String[] args) {
-        PalindromeOf3 obj = new PalindromeOf3( );
+        PalindromeOf3 obj = new PalindromeOf3();
 		int n = 131;	
 		System.out.println(obj.isPalindromeOf3Digits(n));
 	}
