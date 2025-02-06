@@ -9,7 +9,7 @@ public class Demo013 {
             
             double ta = getTriangleArea(s1,s2,s3);
             
-            System.out.println("The triangle area is:"+ta);
+            System.out.println(" The triangle area is:"+ta);
         }
     }
     
