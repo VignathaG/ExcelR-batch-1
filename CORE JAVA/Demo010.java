@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Custome {
+class Customer {
     private String custname;
     private long bankaccno;
     private Double balance;
