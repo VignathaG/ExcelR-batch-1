@@ -1,4 +1,4 @@
-public class Demo004 {
+public class Demo00 {
     public static void main(String args[]) {
         int x;
         for(x=1;x<=100;x++)
