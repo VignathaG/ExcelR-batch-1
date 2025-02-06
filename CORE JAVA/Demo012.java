@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo012 {
+public class Demo01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the base of the triangle: ");
