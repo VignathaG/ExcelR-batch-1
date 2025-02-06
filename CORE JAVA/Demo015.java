@@ -10,7 +10,7 @@ public class Demo015 {
         temp = x;
         x = y;
         y = temp;
-        System.out.println("first:"+x);
+        System.out.println(" first:"+x);
         System.out.println("second:"+y);
         sc.close();
         
