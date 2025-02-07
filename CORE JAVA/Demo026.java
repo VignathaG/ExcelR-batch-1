@@ -6,7 +6,7 @@ class Count{
         int vCount, cCount;
         vCount = cCount = 0;
         str = str.toLowerCase();
-        for(int i = 0;i<str.length( );i++){
+        for(int i = 0;i<str.length();i++){
             if(vowels.contains(str.charAt(i))){
                 vCount++;
             }
