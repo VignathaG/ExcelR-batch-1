@@ -7,7 +7,7 @@ public class Demo035 {
             System.out.print("Enter first number: ");
             int num1 = scanner.nextInt();
             System.out.print("Enter second number: ");
-            int num2 = scanner.nextInt();
+            int num2 = scanner.nextInt( );
 
             if (num1 > num2) {
                 System.out.println(num1 + " is the bigger number.");
