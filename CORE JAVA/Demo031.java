@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 class HashSetDemo1 {
-    void HSetMethod( ) {
+    void HSetMethod() {
         HashSet<Object> hashSet = new HashSet<>();
         hashSet.add(100);
         hashSet.add("VIGNATHA");
