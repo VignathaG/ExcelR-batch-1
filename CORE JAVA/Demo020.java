@@ -13,7 +13,7 @@ class FizzBizz {
 }
 
 public class Demo020 {
-    public static void main(String[] args) {
+    public static void main(String[] args ) {
         int num = 3;
         System.out.println(FizzBizz.getFizzBizz(num));
     }
