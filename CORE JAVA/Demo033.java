@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.LinkedHashSet;
 
 class LinkedHashSetDemo {
-    void linkedHashSetMethod() {  
+    void linkedHashSetMethod( ) {  
         LinkedHashSet<Integer> lhs = new LinkedHashSet<>();
         lhs.add(20);
         lhs.add(30);
