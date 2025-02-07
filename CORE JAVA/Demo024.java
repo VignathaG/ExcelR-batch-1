@@ -1,6 +1,6 @@
 import java.util.*;
 class Array{
-    String name[] = new String[5];
+    String name[] = new String[5 ];
     String address[] = new String[5];
     long phone[] = new long[5];
     void array1(){
