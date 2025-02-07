@@ -3,7 +3,7 @@ public class Demo021 {
     private double hra;
     private double pf;
 
-    public Demo021(double annualSalary, double hra, double pfb ) {
+    public Demo021(double annualSalary, double hra, double pfb) {
         this.annualSalary = annualSalary;
         this.hra = hra;
         this.pf = pf;
