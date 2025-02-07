@@ -1,6 +1,6 @@
 public class Demo019 {
     
-    public static int[] getFibonacciSeries(int  n) {
+    public static int[] getFibonacciSeries(int n) {
         
         if (n <= 0) {
             return new int[]{0};
