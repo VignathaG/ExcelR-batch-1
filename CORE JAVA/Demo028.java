@@ -6,7 +6,7 @@ public class Demo028{
             System.out.print(fibonacci(n - 1) + " "); 
         }
     }
-    public static int fibonacci(int n ) {
+    public static int fibonacci(int n) {
         if (n <= 1) {
             return n; 
         } else {
