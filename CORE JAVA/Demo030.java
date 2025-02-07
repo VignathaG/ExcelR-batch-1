@@ -1,7 +1,7 @@
 import java.util.*;
 
 class ArrayListCode {
-    void arrayListMethod() {
+    void arrayListMethod( ) {
         ArrayList<Integer> arrayList1 = new ArrayList<>();
 
         arrayList1.add(100);
