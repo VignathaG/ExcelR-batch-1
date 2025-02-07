@@ -1,7 +1,7 @@
 import java.util.HashSet;
 class HashSetDemo2 {
 
-    void HashsetMethod(){
+    void HashsetMethod( ){
         HashSet <String>hashSet = new HashSet<String>();
 		hashSet.add("INDIA");
 		hashSet.add("AUSTRALIA");
