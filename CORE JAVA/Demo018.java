@@ -15,7 +15,7 @@
     public class Demo018 {
         public static void main(String[] args) {
             MinutesToYears obj = new MinutesToYears();
-            obj.minToYrs();
+            obj.minToYrs()
     }
     }
     
