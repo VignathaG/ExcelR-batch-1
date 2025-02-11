@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Demo041 {
     public static void main(String[] args) {
-        try (Scanner scanner = new Scanner(System.in)) {
+        try (Scanner scanner = new Scanner(System.in) ) {
             System.out.print("Enter a character: ");
             char ch = scanner.next().charAt(0);
 
